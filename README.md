@@ -1,1 +1,1 @@
-# JSONToCSV
+# json-to-csv
